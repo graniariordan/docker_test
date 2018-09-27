@@ -8,3 +8,5 @@ sudo apt-get update
 sudo apt-get install docker-ce
 
 curl https://raw.githubusercontent.com/graniariordan/docker_test/master/docker-compose.yml > docker-compose.yml
+
+sudo docker swarm init
